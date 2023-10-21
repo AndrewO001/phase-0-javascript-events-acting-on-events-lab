@@ -28,5 +28,6 @@ function moveDodgerLeft() {
     if (e.key === "ArrowRight") {
         moveDodgerRight();
     }
-
+    {}
   });
+
